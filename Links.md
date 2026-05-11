@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-11 17:14 IR
+- 📥 [zyrln-windows-amd64.exe](https://github.com/goeurobot/sandbox/raw/main/dl/zyrln-windows-amd64.exe) `9.7MB`
+
+---
+
+
 ### 📅 2026-05-11 17:03 IR
 - 📱 [zyrln-1.4.0.apk](https://github.com/goeurobot/sandbox/raw/main/dl/zyrln-1.4.0.apk) `22.9MB`
 
